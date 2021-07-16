@@ -132,6 +132,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Mantimentos.cs" />
+    <Compile Include="Models\TipoMantimentos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\Contexto.cs" />
     <Compile Include="Repository\MantimentosRepository.cs" />
